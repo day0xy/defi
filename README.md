@@ -1,15 +1,35 @@
 This repository contains my research on some DeFi protocols
 
-## Uniswap
+# Uniswap
+
+## uniswapV2
+
+
+## uniswapV3
+
+
+## uniswapV4
+
+
+## uniswapX
+
+
+
+# Lido
+
+
+# Compound
+
+
+
+# Aave
 
 
 
 
 
-## Compound
+# curve
 
 
 
-
-
-## Ethervista dex
+# Ethervista dex
