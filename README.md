@@ -21,6 +21,8 @@ This repository contains my research on some DeFi protocols
 # Compound
 
 
+# EigenLayer
+
 
 # Aave
 
